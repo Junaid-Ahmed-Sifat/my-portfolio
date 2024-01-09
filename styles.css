@@ -1,0 +1,44 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.maryclass {
+    color: #181818;
+    font-weight: 800;
+    font-size: 45px;
+}
+
+#mcol{
+    color: #FD6E0A ;
+}
+
+nav ul{
+    display: flex; 
+    align-items: center;
+}
+
+nav li{
+    list-style: none;
+    margin-right: 50px;
+}
+
+nav a{
+    text-decoration: none;
+}
+
+.btn-primary{
+    background-color: #FD6E0A;
+    border-radius: 5px;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 30px;
+}
