@@ -78,6 +78,7 @@ nav a{
 main{
     max-width: 1140px;
     margin: 0 auto;
+    margin-top: 130px;
 }
 
 .para{
@@ -145,4 +146,44 @@ main{
     line-height: 30px;
     display: flex;
     padding: 30px 150px;
+}
+
+.skills{
+    display: flex;
+    gap: 24px;
+    
+}
+
+.skill4{
+    padding: 33px;
+}
+
+.skp{
+    color: var(--Dark-03, #757575);
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px; 
+}
+
+.resline{
+    color: var(--Dark-01, #181818);
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 130px;  
+    
+}
+
+.full-col{
+    display: flex;
+
+}
+
+.inside item-par{
+    
 }
